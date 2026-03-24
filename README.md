@@ -19,8 +19,5 @@ This project helps ambulances reach hospitals faster by calculating the shortest
 2. Run:
    python main.py
 
-## 📷 Output
-(Add screenshots here if available)
-
 ## 👨‍💻 Author
 Kanishka M
